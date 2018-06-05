@@ -1,0 +1,3 @@
+rootProject.name = 'VisionectMobileBle'
+
+include ':app'
