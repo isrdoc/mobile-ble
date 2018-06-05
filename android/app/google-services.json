@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1008569455871",
+    "firebase_url": "https://visionect-ble.firebaseio.com",
+    "project_id": "visionect-ble",
+    "storage_bucket": "visionect-ble.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008569455871:android:2c02da8aed52d21a",
+        "android_client_info": {
+          "package_name": "com.visionect.mobile.ble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008569455871-o3i44p9ronqi0ffpkdbun2rib84roou8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1008569455871-o3i44p9ronqi0ffpkdbun2rib84roou8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQsBk1PlLYoz0U3jQ8kYS18_m2ysofrhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
