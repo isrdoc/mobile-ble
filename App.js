@@ -6,7 +6,6 @@
 
 import React, { PureComponent } from 'react';
 import {
-  Platform,
   StyleSheet,
   Text,
   View,
@@ -31,25 +30,14 @@ const styles = StyleSheet.create({
   },
 });
 
-const instructions = Platform.select({
-  ios: 'Press Cmd+R to reload,\n' +
-    'Cmd+D or shake for dev menu',
-  android: 'Double tap R on your keyboard to reload,\n' +
-    'Shake or press menu button for dev menu',
-});
-
 export default class App extends PureComponent {
   render() {
+    console.log('test log rrrrrrrrrrrrrrrrr');
+
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
-        </Text>
-        <Text style={styles.instructions}>
-          To get started, edit App.js
-        </Text>
-        <Text style={styles.instructions}>
-          {instructions}
+          Ready ready
         </Text>
         <Text style={styles.instructions}>
           {JSON.stringify(this.props)}
