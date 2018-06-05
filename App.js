@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
 
 export default class App extends PureComponent {
   render() {
-    console.log('test log rrrrrrrrrrrrrrrrr');
+    console.log('test log dddddddddddddddd');
 
     return (
       <View style={styles.container}>

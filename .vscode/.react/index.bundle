@@ -61330,7 +61330,7 @@ __d(function (global, _require, module, exports, _dependencyMap) {
     _createClass(App, [{
       key: "render",
       value: function render() {
-        console.log('test log rrrrrrrrrrrrrrrrr');
+        console.log('test log dddddddddddddddd');
         return _react3.default.createElement(
           _reactNative.View,
           {

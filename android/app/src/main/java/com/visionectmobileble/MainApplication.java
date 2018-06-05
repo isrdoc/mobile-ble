@@ -1,4 +1,4 @@
-package com.visionectmobileble;
+package com.visionect.mobile.ble;
 
 import android.app.Application;
 
