@@ -61330,7 +61330,7 @@ __d(function (global, _require, module, exports, _dependencyMap) {
     _createClass(App, [{
       key: "render",
       value: function render() {
-        console.log('test log dddddddddddddddd');
+        console.log('test log ggggggggggggggg');
         return _react3.default.createElement(
           _reactNative.View,
           {
@@ -61349,7 +61349,7 @@ __d(function (global, _require, module, exports, _dependencyMap) {
                 lineNumber: 39
               }
             },
-            "Ready ready"
+            "Ready ready mu"
           ),
           _react3.default.createElement(
             _reactNative.Text,

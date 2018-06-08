@@ -32,12 +32,12 @@ const styles = StyleSheet.create({
 
 export default class App extends PureComponent {
   render() {
-    console.log('test log dddddddddddddddd');
+    console.log('test log ggggggggggggggg');
 
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Ready ready
+          Ready ready mu
         </Text>
         <Text style={styles.instructions}>
           {JSON.stringify(this.props)}
